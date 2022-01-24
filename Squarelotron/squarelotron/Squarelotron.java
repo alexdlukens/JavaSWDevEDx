@@ -1,4 +1,4 @@
-package square;
+package squarelotron;
 
 public class Squarelotron {
     public int[][] squarelotron;

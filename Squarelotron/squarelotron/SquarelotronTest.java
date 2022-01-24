@@ -1,4 +1,4 @@
-package square;
+package squarelotron;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertNull;
@@ -32,7 +32,7 @@ class SquarelotronTest {
 		assertTrue(square5.size == 5);
 		assertTrue(square4.size == 4);
 	}
-
+	
 	@Test
 	void testUpsideDownFlip() {
 		Squarelotron output5 = square5.upsideDownFlip(1);
