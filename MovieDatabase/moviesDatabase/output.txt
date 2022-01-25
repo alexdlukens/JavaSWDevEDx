@@ -1,0 +1,315 @@
+Movie:  Sleepers                                       Rating: 74.0
+Movie:  Troy                                           Rating: 54.0
+Movie:  Meet Joe Black                                 Rating: 51.0
+Movie:  Oceans Eleven                                  Rating: 82.0
+Movie:  Seven                                          Rating: 79.0
+Movie:  Mr & Mrs Smith                                 Rating: 59.0
+Movie:  12 Years a Slave                               Rating: 0.0
+Movie:  You've Got Mail                                Rating: 69.0
+Movie:  Apollo 13                                      Rating: 95.0
+Movie:  Sleepless in Seattle                           Rating: 72.0
+Movie:  Catch Me If You Can                            Rating: 96.0
+Movie:  Philadelphia                                   Rating: 77.0
+Movie:  Forrest Gump                                   Rating: 71.0
+Movie:  Courage Under Fire                             Rating: 0.0
+Movie:  National Treasure                              Rating: 35.0
+Movie:   Inglourious Basterds                          Rating: 0.0
+Movie:  The Lost City                                  Rating: 0.0
+Movie:  Rain Man                                       Rating: 90.0
+Movie:  The Graduate                                   Rating: 0.0
+Movie:  Kramer vs. Kramer                              Rating: 88.0
+Movie:  Hannibal                                       Rating: 39.0
+Movie:  The Edge                                       Rating: 60.0
+Movie:  Proof                                          Rating: 62.0
+Movie:  Pearl Harbor                                   Rating: 0.0
+Movie:  The Hunt For Red October                       Rating: 0.0
+Movie:  Bone Collector                                 Rating: 28.0
+Movie:  Lara Croft Tomb Raider                         Rating: 24.0
+Movie:  Original Sin                                   Rating: 12.0
+Movie:  The Siege                                      Rating: 0.0
+Movie:  American Gangster                              Rating: 80.0
+Movie:  Glory                                          Rating: 69.0
+Movie:  Mad Max: Fury Road                             Rating: 0.0
+Movie:  Monster                                        Rating: 0.0
+Movie:  The Dark Knight Rises                          Rating: 0.0
+Movie:  Inception                                      Rating: 86.0
+Movie:  The Pianist                                    Rating: 0.0
+Movie:  The Darjeeling Limited                         Rating: 0.0
+Movie:  Fantastic Mr. Fox                              Rating: 0.0
+Movie:  Midnight in Paris                              Rating: 93.0
+Movie:  Detachment                                     Rating: 0.0
+Movie:  The Grand Budapest Hotel                       Rating: 0.0
+Movie:  Becoming Jane                                  Rating: 0.0
+Movie:  Atonement                                      Rating: 0.0
+Movie:  Wanted                                         Rating: 0.0
+Movie:  X-Men: First Class                             Rating: 0.0
+Movie:  Love Actually                                  Rating: 63.0
+Movie:  Pride & Prejudice                              Rating: 0.0
+Movie:  Never Let Me Go                                Rating: 0.0
+Movie:  The Imitation Game                             Rating: 90.0
+Movie:  Wall Street: Money Never Sleeps                Rating: 0.0
+Movie:  The Great Gatsby                               Rating: 0.0
+Movie:  Inside Llewyn Davis                            Rating: 0.0
+Movie:  Pretty Woman                                   Rating: 62.0
+Movie:  Runaway Bride                                  Rating: 0.0
+Movie:  Sleeping with the Enemy                        Rating: 0.0
+Movie:  Shakespeare in Love                            Rating: 92.0
+Movie:  Bounce                                         Rating: 52.0
+Movie:  Shallow Hal                                    Rating: 51.0
+Movie:  Gladiator                                      Rating: 76.0
+Movie:  A Beautiful Mind                               Rating: 75.0
+Movie:  Cinderella Man                                 Rating: 80.0
+Movie:  Les Miserables                                 Rating: 70.0
+Movie:  Rocky                                          Rating: 92.0
+Movie:  Rambo                                          Rating: 55.0
+Movie:  Assassins                                      Rating: 16.0
+Movie:  Demolition Man                                 Rating: 64.0
+Movie:  Cobra                                          Rating: 35.0
+Movie:  Edward Scissorhands                            Rating: 91.0
+Movie:  The Pirates of Caribbean                       Rating: 79.0
+Movie:  Finding Neverland                              Rating: 83.0
+Movie:  What's Eating Gilbert Grape                    Rating: 89.0
+Movie:  Titanic                                        Rating: 88.0
+Movie:  Blood Diamond                                  Rating: 0.0
+Movie:  The Departed                                   Rating: 91.0
+Movie:  The Wolf of Wall Street                        Rating: 0.0
+Movie:  The Revenant                                   Rating: 0.0
+Movie:  The Mask of Zorro                              Rating: 83.0
+Movie:  Desperado                                      Rating: 62.0
+Movie:  Frida                                          Rating: 76.0
+Movie:  Top Gun                                        Rating: 54.0
+Movie:  Mission Impossible                             Rating: 61.0
+Movie:  Jerry Maguire                                  Rating: 85.0
+Movie:  Few Good Men                                   Rating: 81.0
+Movie:   Finding Neverland                             Rating: 0.0
+Movie:  Eternal Sunshine of the Spotless Mind          Rating: 93.0
+Movie:  The Reader                                     Rating: 0.0
+Movie:  The Life of David Gale                         Rating: 0.0
+Movie:  Intolerable Cruelty                            Rating: 0.0
+Movie:  Syriana                                        Rating: 0.0
+Movie:  From Dusk Till Dawn                            Rating: 0.0
+Movie:  Good Will Hunting                              Rating: 97.0
+Movie:  Bourne Identity                                Rating: 83.0
+Movie:  Bourne Ultimatum                               Rating: 94.0
+Movie:  Invictus                                       Rating: 76.0
+Movie:  Argo                                           Rating: 96.0
+Movie:  Daredevil                                      Rating: 0.0
+Movie:   Intolerable Cruelty                           Rating: 0.0
+Movie:  Chicago                                        Rating: 0.0
+Movie:  Traffic                                        Rating: 0.0
+Movie:  Die Hard                                       Rating: 82.0
+Movie:  The Sixth Sense                                Rating: 85.0
+Movie:  Pulp Fiction                                   Rating: 94.0
+Movie:  The Fifth Element                              Rating: 71.0
+Movie:  Unbreakable                                    Rating: 68.0
+Movie:  The Big Lebowski                               Rating: 80.0
+Movie:  Crazy Stupid Love                              Rating: 0.0
+Movie:  Wild Wild West                                 Rating: 17.0
+Movie:  54                                             Rating: 0.0
+Movie:  Fools Rush In                                  Rating: 0.0
+Movie:  Pursuit of Happyness                           Rating: 67.0
+Movie:  Hitch                                          Rating: 69.0
+Movie:  Men in Black                                   Rating: 70.0
+Movie:  Ali                                            Rating: 89.0
+Movie:  Enemy of the State                             Rating: 71.0
+Movie:  Mystic River                                   Rating: 87.0
+Movie:  Footloose                                      Rating: 0.0
+Movie:  JFK                                            Rating: 85.0
+Movie:  The Mask                                       Rating: 77.0
+Movie:  Bruce Almighty                                 Rating: 48.0
+Movie:  Me-Myself & Irene                              Rating: 65.0
+Movie:  Cold Mountain                                  Rating: 0.0
+Movie:  Bridget Jones's Diary                          Rating: 0.0
+Movie:  The Dark Knight                                Rating: 88.0
+Movie:  The Machinist                                  Rating: 77.0
+Movie:  The Fighter                                    Rating: 91.0
+Movie:  American Psycho                                Rating: 67.0
+Movie:  American Hustle                                Rating: 93.0
+Movie:  Enchanted                                      Rating: 93.0
+Movie:  The Master                                     Rating: 0.0
+Movie:  Doubt                                          Rating: 77.0
+Movie:  Julie and Julia                                Rating: 75.0
+Movie:  Leaving Las Vegas                              Rating: 89.0
+Movie:  Moonstruck                                     Rating: 92.0
+Movie:  I am Sam                                       Rating: 34.0
+Movie:  Milk                                           Rating: 94.0
+Movie:  Fast Times at Ridgemont High                   Rating: 0.0
+Movie:  Munich                                         Rating: 0.0
+Movie:  Star Trek                                      Rating: 0.0
+Movie:  The Time Traveler's Wife                       Rating: 37.0
+Movie:  Mean Girls                                     Rating: 83.0
+Movie:  Notebook                                       Rating: 52.0
+Movie:  Drive                                          Rating: 0.0
+Movie:  Blue Valentine                                 Rating: 0.0
+Movie:  We are Marshall                                Rating: 49.0
+Movie:  American Wedding                               Rating: 55.0
+Movie:  Silver Linings Playbook                        Rating: 92.0
+Movie:  Hunger Games                                   Rating: 0.0
+Movie:  Winter's Bone                                  Rating: 0.0
+Movie:  Joy                                            Rating: 0.0
+Movie:  The Hangover                                   Rating: 79.0
+Movie:  Wedding Crashers                               Rating: 75.0
+Movie:  Zoolander                                      Rating: 0.0
+Movie:  The Devil Wears Prada                          Rating: 75.0
+Movie:  The Hours                                      Rating: 81.0
+Movie:  Out of Africa                                  Rating: 52.0
+Movie:  Sophie's Choice                                Rating: 79.0
+Movie:  The Deer Hunter                                Rating: 93.0
+Movie:  The French Lieutenant's Woman                  Rating: 80.0
+Movie:  Mamma Mia                                      Rating: 54.0
+Movie:  GoldenEye                                      Rating: 82.0
+Movie:  The Thomas Crown Affair                        Rating: 70.0
+Movie:  The World is not Enough                        Rating: 51.0
+Movie:  Gone With The Wind                             Rating: 95.0
+Movie:  Mogambo                                        Rating: 82.0
+Movie:  It Happened One Night                          Rating: 98.0
+Movie:  Casablanca                                     Rating: 97.0
+Movie:  Maltese Falcon                                 Rating: 100.0
+Movie:  Big Sleep                                      Rating: 96.0
+Movie:  High Noon                                      Rating: 96.0
+Movie:  Dial M for Murder                              Rating: 88.0
+Movie:  Rear Window                                    Rating: 100.0
+Movie:  High Society                                   Rating: 80.0
+Movie:  Country Girl                                   Rating: 0.0
+Movie:  An Affair to Remember                          Rating: 64.0
+Movie:  In the Heat of the Night                       Rating: 94.0
+Movie:  To Sir With Love                               Rating: 92.0
+Movie:  Lilies of the Field                            Rating: 100.0
+Movie:  The Godfather                                  Rating: 100.0
+Movie:  Superman                                       Rating: 93.0
+Movie:  Last Tango in Paris                            Rating: 81.0
+Movie:  On the Waterfront                              Rating: 100.0
+Movie:  Scent of a Woman                               Rating: 88.0
+Movie:  Dog Day Afternoon                              Rating: 97.0
+Movie:  The Godfather Part II                          Rating: 99.0
+Movie:  Scarface                                       Rating: 84.0
+Movie:  The French Connection                          Rating: 98.0
+Movie:  Unforgiven                                     Rating: 95.0
+Movie:  Hoosiers                                       Rating: 0.0
+Movie:  As Good As it Gets                             Rating: 86.0
+Movie:  Departed                                       Rating: 91.0
+Movie:  Terms of Endearment                            Rating: 88.0
+Movie:  One Flew Over the Cuckoo's nest                Rating: 0.0
+Movie:  Ted                                            Rating: 88.0
+Movie:  Italian Job                                    Rating: 73.0
+Movie:  For a Few Dollars More                         Rating: 94.0
+Movie:  Dirty Harry                                    Rating: 95.0
+Movie:  Escape From Alcatraz                           Rating: 95.0
+Movie:  Silence of the Lambs                           Rating: 94.0
+Movie:  The Accused                                    Rating: 95.0
+Movie:  Contact                                        Rating: 63.0
+Movie:  My Fair Lady                                   Rating: 95.0
+Movie:  Roman Holiday                                  Rating: 98.0
+Movie:  Sabrina                                        Rating: 91.0
+Movie:  Amelie                                         Rating: 0.0
+Movie:  A Very Long Engagement                         Rating: 0.0
+Movie:  Three Musketeers                               Rating: 89.0
+Movie:  An American In Paris                           Rating: 96.0
+Movie:  Singin in the Rain                             Rating: 100.0
+Movie:  From Here to Eternity                          Rating: 89.0
+Movie:  The King and I                                 Rating: 78.0
+Movie:  The Philadelphia Story                         Rating: 100.0
+Movie:  It's a Wonderful World                         Rating: 0.0
+Movie:  Mr Smith Goes To Washington                    Rating: 94.0
+Movie:  You Can't Take It With You                     Rating: 97.0
+Movie:  The Apartment                                  Rating: 93.0
+Movie:  The Odd Couple                                 Rating: 100.0
+Movie:  Some Like It Hot                               Rating: 96.0
+Movie:  Some Like it Hot                               Rating: 0.0
+Movie:  Bus Stop                                       Rating: 79.0
+Movie:  Gentlemen Prefer Blondes                       Rating: 97.0
+Movie:  Mrs Miniver                                    Rating: 91.0
+Movie:  Goodbye Mr Chips                               Rating: 81.0
+Movie:  Double Indemnity                               Rating: 96.0
+Movie:  The Stranger                                   Rating: 96.0
+Movie:  West Side Story                                Rating: 94.0
+Movie:                                                 Rating: 0.0
+Movie:  Gigi                                           Rating: 75.0
+Movie:  Octopussy                                      Rating: 42.0
+Movie:  From Russia With Love                          Rating: 96.0
+Movie:  The Untouchables                               Rating: 80.0
+Movie:  Rebel Without A Cause                          Rating: 0.0
+Movie:  A Man For All Seasons                          Rating: 80.0
+Movie:  Mary Poppins                                   Rating: 100.0
+Movie:  Sound of Music                                 Rating: 85.0
+Movie:  The Bridge on The River Kwai                   Rating: 94.0
+Movie:  Star Wars                                      Rating: 80.0
+Movie:  Kind Hearts and Coronets                       Rating: 100.0
+Movie:  Hud                                            Rating: 80.0
+Movie:  Cool Hand Luke                                 Rating: 100.0
+Movie:  The Sting                                      Rating: 92.0
+Movie:  Species                                        Rating: 35.0
+Movie:  Gandhi                                         Rating: 87.0
+Movie:  Schindler's List                               Rating: 97.0
+Movie:  Driving Miss Daisy                             Rating: 81.0
+Movie:  Million Dollar Baby                            Rating: 91.0
+Movie:  The Shawshank Redemption                       Rating: 0.0
+Movie:  In her Shoes                                   Rating: 0.0
+Movie:  Ordinary People                                Rating: 92.0
+Movie:  MASH                                           Rating: 90.0
+Movie:  The Hunger Games                               Rating: 84.0
+Movie:  Annie Hall                                     Rating: 98.0
+Movie:  Mighty Aphrodite                               Rating: 77.0
+Movie:  Something's Gotta Give                         Rating: 0.0
+Movie:  Meet the Parents                               Rating: 70.0
+Movie:  Casino                                         Rating: 0.0
+Movie:  Goodfellas                                     Rating: 96.0
+Movie:  Patton                                         Rating: 98.0
+Movie:  Dr Strangelove                                 Rating: 99.0
+Movie:  All About Eve                                  Rating: 100.0
+Movie:  The Virgin Queen                               Rating: 77.0
+Movie:  The Lion In Winter                             Rating: 90.0
+Movie:  Bringing up Baby                               Rating: 0.0
+Movie:  Holiday                                        Rating: 0.0
+Movie:  Woman of the Year                              Rating: 0.0
+Movie:  Butch Cassidy and the Sundance Kid             Rating: 0.0
+Movie:  Dances with Wolves                             Rating: 81.0
+Movie:  Field of Dreams                                Rating: 87.0
+Movie:  Hamlet                                         Rating: 76.0
+Movie:  Rebecca                                        Rating: 100.0
+Movie:  Jane Eyre                                      Rating: 0.0
+Movie:  Going My Way                                   Rating: 71.0
+Movie:  Road to Morocco                                Rating: 92.0
+Movie:  The Lost Weekend                               Rating: 0.0
+Movie:  To Kill a Mockingbird                          Rating: 94.0
+Movie:  Gentleman's Agreement                          Rating: 76.0
+Movie:  Guns of Navarone                               Rating: 95.0
+Movie:  Zorba the Greek                                Rating: 0.0
+Movie:  Ben-Hur                                        Rating: 88.0
+Movie:  Planet of the Apes                             Rating: 45.0
+Movie:  The Lord of the Rings: The Return of the King  Rating: 95.0
+Movie:  Sin City                                       Rating: 78.0
+Movie:  Braveheart                                     Rating: 78.0
+Movie:  Lethal Weapon                                  Rating: 84.0
+Movie:  No Country for Old Men                         Rating: 94.0
+Movie:  W                                              Rating: 59.0
+Movie:  The Hurt Locker                                Rating: 97.0
+Movie:  The Avengers                                   Rating: 75.0
+Movie:  Crash                                          Rating: 75.0
+Movie:  Speed                                          Rating: 93.0
+Movie:  Blind Side                                     Rating: 78.0
+Movie:  My Cousin Vinny                                Rating: 85.0
+Movie:  Karate Kid                                     Rating: 66.0
+Movie:  Amadeus                                        Rating: 95.0
+Movie:  Mrs. Miniver                                   Rating: 91.0
+Movie:  How Green Was My Valley                        Rating: 89.0
+Movie:  Star Wars: The Force Awakens                   Rating: 0.0
+Movie:  Non-Stop                                       Rating: 0.0
+Movie:  Kazaam                                         Rating: 0.0
+Movie:  Steel                                          Rating: 0.0
+Movie:  Good Burger                                    Rating: 0.0
+Movie:  27 Dresses                                     Rating: 0.0
+Movie:  X-Men: Days of Future Past                     Rating: 0.0
+Movie:  The Wrestler                                   Rating: 98.0
+Movie:  Iron Man 2                                     Rating: 72.0
+Movie:  9 ½ weeks                                      Rating: 0.0
+Movie:  Black Swan                                     Rating: 0.0
+Movie:  La Haine                                       Rating: 0.0
+Movie:  Eastern Promises                               Rating: 0.0
+Movie:  Ocean’s Twelve                                 Rating: 0.0
+Movie:  Juno                                           Rating: 94.0
+Movie:  Star Trek Into Darkness                        Rating: 0.0
+Movie:  The Hobbit: The Desolation of Smaug            Rating: 0.0
+Movie:  The Hobbit: The Battle of the Five Armies      Rating: 0.0
+Movie:  Avatar                                         Rating: 0.0
+Movie:  Guardians of the Galaxy                        Rating: 0.0

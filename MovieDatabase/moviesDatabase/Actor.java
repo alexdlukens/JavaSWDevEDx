@@ -45,4 +45,9 @@ public class Actor {
 		this.name = name;
 		this.movies = movies;
 	}
+	
+	public Actor(){
+        this.name = "";
+        this.movies = new ArrayList<Movie>();
+    }
 }

@@ -1,7 +1,6 @@
 package squarelotron;
 
 import static org.junit.Assert.assertArrayEquals;
-import static org.junit.Assert.assertNull;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
