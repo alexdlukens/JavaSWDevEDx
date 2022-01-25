@@ -270,7 +270,14 @@ public class MovieDatabase {
 			char[] charArray = new char[longestName - m.getName().length() + 1];
 			Arrays.fill(charArray, ' ');
 			String padded = new String(charArray);
-			writer.println("Movie: " + m.getName() + padded + " Rating: " + m.getRating());
+			String ratingString;
+			if(m.getRating() != 0.0) {
+				ratingString = Double.toString(m.getRating());
+			}
+			else {
+				ratingString = "Unknown";
+			}
+			writer.println("Movie: " + m.getName() + padded + " Rating: " + ratingString);
 		}
 		
 		writer.close();
