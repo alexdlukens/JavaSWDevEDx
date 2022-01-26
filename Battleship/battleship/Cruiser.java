@@ -6,6 +6,7 @@ public class Cruiser extends Ship {
 		super();
 		boolean[] hitBox = new boolean[6];
 		this.setHit(hitBox);
+		this.setLength(6);
 	}
 	
 	@Override

@@ -6,6 +6,7 @@ public class BattleCruiser extends Ship{
 		super();
 		boolean[] hitBox = new boolean[7];
 		this.setHit(hitBox);
+		this.setLength(7);
 	}
 	
 	@Override

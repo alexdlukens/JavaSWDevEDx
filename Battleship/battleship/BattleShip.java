@@ -6,6 +6,7 @@ public class BattleShip extends Ship {
 		super();
 		boolean[] hitBox = new boolean[8];
 		this.setHit(hitBox);
+		this.setLength(8);
 	}
 	
 	@Override
