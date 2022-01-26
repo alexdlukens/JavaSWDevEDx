@@ -63,6 +63,38 @@ public abstract class Ship {
 	
 	public abstract String getShipType();
 	
+	private boolean diagonalSafe(int row, int column, boolean isHorizontal, Ocean ocean) {
+		int length = this.getLength();
+		if(!horizontal) {
+			if(row == 0) {
+				if(column==0) {
+					//only check right side of boat for diagonal
+					if(ocean.isOccupied(row+length, column+1)) return false;
+				}
+				else {
+					if(ocean.isOccupied(row+length, column+1) | ocean.isOccupied(row+length, column-1)) return false;
+				}
+			}
+			else {
+				if(column==0) {
+					//only check right side of boat for diagonal
+					if(ocean.isOccupied(row+length, column+1)) return false;
+					if(ocean.isOccupied(row-1, column+1)) return false;
+				}
+				else {
+					if(ocean.isOccupied(row+length, column+1)) return false;
+					if(ocean.isOccupied(row-1, column+1)) return false;
+					if(ocean.isOccupied(row+length, column+1)) return false;
+					if(ocean.isOccupied(row-1, column+1)) return false;
+				}
+			}
+		}
+		else {
+//			if(column == 0)
+//			TODO fill out horizontal part
+		}
+		return true;
+	}
 	/**
 	 * Returns true if it is okay to put a ship of this length 
 	 * with its bow in this location, with the given orientation, 
@@ -78,6 +110,7 @@ public abstract class Ship {
 	 */
 	public boolean okToPlaceShipAt(int row, int column, boolean horizontal, Ocean ocean) {
 		int length = this.getLength();
+		if(!diagonalSafe(row,column,horizontal,ocean))return false;
 		if(!horizontal) {
 			if(row+length-1 > 19) return false;
 			for(int i = 0; i<length; i++) {
@@ -133,12 +166,14 @@ public abstract class Ship {
 	 * @return
 	 */
 	boolean shootAt(int row, int column) {
+		System.out.println("inside shootAt");
 		if(this.isHorizontal()) {
 			if((column==column) & (row >= this.getBowRow()) & (row < this.getBowRow()+this.getLength())) {
 				int box = row-this.getBowRow();
 				boolean[] hitboxes = this.getHit();
 				hitboxes[box] = true;
 				this.setHit(hitboxes);
+				System.out.println("hit, row=" + row + " column=" + column + " box=" + box);
 				return true;
 			}
 			if((row==row) & (column >= this.getBowColumn()) & (column < this.getBowColumn()+this.getLength())) {
@@ -146,6 +181,7 @@ public abstract class Ship {
 				boolean[] hitboxes = this.getHit();
 				hitboxes[box] = true;
 				this.setHit(hitboxes);
+				System.out.println("hit");
 				return true;
 			}
 		}
@@ -157,14 +193,17 @@ public abstract class Ship {
 	 * @return
 	 */
 	public boolean isSunk() {
-		
-		return false;
+		boolean[] hitboxes = this.getHit();
+		for(boolean bool : hitboxes) {
+			if(bool == false) return false;
+		}
+		return true;
 	}
 	
 	@Override
 	public String toString() {
 		
-		if(this.isSunk()) return "x";
-		else return "S";
+		if(this.isSunk()) return "x ";
+		else return "S ";
 	}
 }

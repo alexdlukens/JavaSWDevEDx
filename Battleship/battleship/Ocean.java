@@ -27,7 +27,11 @@ public class Ocean {
 	 * or you may end up with no legal place to put a large ship
 	 */
 	public void placeAllShipsRandomly() {
-		
+		BattleShip ship1 = new BattleShip();
+		if(ship1.okToPlaceShipAt(1, 1, true, this)) {
+			ship1.placeShipAt(1, 1, true, this);
+			System.out.println("battleship placed at 1,1");
+		}
 	}
 	
 	public boolean isOccupied(int row, int column) {
