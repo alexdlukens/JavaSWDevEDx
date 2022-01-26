@@ -77,7 +77,19 @@ public abstract class Ship {
 	 * @return
 	 */
 	public boolean okToPlaceShipAt(int row, int column, boolean horizontal, Ocean ocean) {
-		
+		int length = this.getLength();
+		if(!horizontal) {
+			if(row+length-1 > 19) return false;
+			for(int i = 0; i<length; i++) {
+				if(ocean.isOccupied(row+i, column)) return false;
+			}
+		}
+		else {
+			if(column+length-1 > 19) return false;
+			for(int i = 0; i<length; i++) {
+				if(ocean.isOccupied(row, column+i)) return false;
+			}
+		}
 		return true;
 	}
 	
@@ -94,7 +106,22 @@ public abstract class Ship {
 	 * @param ocean
 	 */
 	public void placeShipAt(int row, int column, boolean horizontal, Ocean ocean) {
-		
+		Ship[][] ships = ocean.getShipArray();
+		this.setBowRow(row);
+		this.setBowColumn(column);
+		this.setHorizontal(horizontal);
+		//place ship vertically
+		if(!horizontal) {
+			for(int i = 0; i<length; i++) {
+				ships[row+i][column] = this;
+			}
+		}
+		//place ship horizontally
+		else {
+			for(int i = 0; i<length; i++) {
+				ships[row][column+i] = this;
+			}
+		}
 	}
 	
 	/**
@@ -106,7 +133,22 @@ public abstract class Ship {
 	 * @return
 	 */
 	boolean shootAt(int row, int column) {
-		
+		if(this.isHorizontal()) {
+			if((column==column) & (row >= this.getBowRow()) & (row < this.getBowRow()+this.getLength())) {
+				int box = row-this.getBowRow();
+				boolean[] hitboxes = this.getHit();
+				hitboxes[box] = true;
+				this.setHit(hitboxes);
+				return true;
+			}
+			if((row==row) & (column >= this.getBowColumn()) & (column < this.getBowColumn()+this.getLength())) {
+				int box = row-this.getBowRow();
+				boolean[] hitboxes = this.getHit();
+				hitboxes[box] = true;
+				this.setHit(hitboxes);
+				return true;
+			}
+		}
 		return false;
 	}
 	
